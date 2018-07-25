@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">"Book Listing "</string>
+
+
+    <!--when no books found -->
+    <string name="empty_page">"No books are available"</string>
+
+    <!--No internet-->
+    <string name="no_net">No internet available</string>
+
+    <!--Edit text box -->
+    <string name="search_bar">Please enter the name of the book</string>
+
+</resources>
